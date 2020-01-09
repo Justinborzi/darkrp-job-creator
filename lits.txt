@@ -1,0 +1,4 @@
+Recruit: Clone Recruit, 
+Clone Trooper: Clone Trooper, Clone Trooper: Clone Heavy, Clone Trooper: Clone Medic, Clone Trooper: Clone Trooper Commander,
+Shock Battalion: Shock Trooper, Shock Battalion: Shock Trooper Commander,
+501st Legion: 501st Trooper, 501st Legion: 501st Heavy, 501st Legion: 501st Medic, 501st Legion: 501st Trooper Commander
